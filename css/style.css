@@ -1,0 +1,23 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://images.unsplash.com/photo-1573261615759-595b0ea415e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title {
+	color: #444444;
+}
+
+
+.title small {
+    font-size: 20px;
+    color: #444444;
+    text-transform: uppercase;
+    margin: 0;
+}
